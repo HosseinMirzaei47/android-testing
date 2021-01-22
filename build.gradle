@@ -51,7 +51,7 @@ ext {
     fragmentVersion = '1.1.0-alpha07'
     fragmentKtxVersion = '1.1.0-rc01'
     hamcrestVersion = '2.2'
-    junitVersion = '4.12'
+    junitVersion = '4.13.1'
     materialVersion = '1.0.0'
     mockitoVersion = '2.8.9'
     recyclerViewVersion = '1.0.0'
